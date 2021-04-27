@@ -1,5 +1,5 @@
 # Bhawana-Token
-IRC-20 Token using Ethereum Blockchain
+ERC-20 Token using Ethereum Blockchain
 
 # Introduction
 Tokens are digital assets built on top of the Ethereum blockchain. Using tokens, developers can use it to pay for services performed by Smart Contracts, as well as use it as a mean for fund raising. Tokens also drive demands for Ether, the native cryptocurrency on the Ethereum blockchain.
